@@ -1,2 +1,2 @@
 # FBNewsfeedBlocker
-Safari extension that replaces facebook newsfeed with motivational quotes
+Safari extension that hides your facebook newsfeed so you can increase your productivity.
