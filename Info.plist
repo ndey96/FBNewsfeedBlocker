@@ -18,13 +18,10 @@
 	<string>1</string>
 	<key>Content</key>
 	<dict>
-		<key>Scripts</key>
-		<dict>
-			<key>End</key>
-			<array>
-				<string>endScript.js</string>
-			</array>
-		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>style.css</string>
+		</array>
 	</dict>
 	<key>Description</key>
 	<string>Replaces your facebook newsfeed with a motivational quote</string>
