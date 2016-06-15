@@ -33,11 +33,17 @@
 	<dict>
 		<key>Website Access</key>
 		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>www.facebook.com</string>
+			</array>
 			<key>Include Secure Pages</key>
 			<true/>
 			<key>Level</key>
-			<string>All</string>
+			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/ndey96/FBNewsfeedBlocker</string>
 </dict>
 </plist>
