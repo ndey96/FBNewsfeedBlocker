@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>11601.6.17</string>
 	<key>CFBundleDisplayName</key>
-	<string>FBNewsfeedBlocker</string>
+	<string>Newsfeed Blocker for Facebook</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.fbnewsfeedblocker</string>
+	<string>com.nolandey.bundleid</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -26,7 +26,7 @@
 	<key>Description</key>
 	<string>Hides your facebook newsfeed while still allowing you to use other useful features like messaging</string>
 	<key>DeveloperIdentifier</key>
-	<string>0000000000</string>
+	<string>A5P7J5U845</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
